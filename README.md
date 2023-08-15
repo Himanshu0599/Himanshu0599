@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu0599&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu0599" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu0599" alt="himanshu0599" /></a> </p>
-
 - 🔭 I’m currently working on **Sentinal**
 
 - 🌱 I’m currently learning **NextJs and Mysql**
 
-- 👨‍💻 All of my projects are available at <a href='[https://himanshu-gupta-portfolio.netlify.app](https://himanshu-gupta-portfolio.netlify.app)'>My PortFolio</a>
+- 👨‍💻 All of my projects are available at **My PortFolio**
 
 - 💬 Ask me about **Frontend Development**
 
@@ -27,6 +25,7 @@
 <h3 align="left"> Stats: </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu0599&show_icons=true&locale=en" alt="himanshu0599" /></p>
 
-
+<h3 align="left"> Trophies: </h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu0599" alt="himanshu0599" /></a> </p>
 
 
