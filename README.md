@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJs and Mysql**
 
-- 👨‍💻 All of my projects are available at My PortFolio [https://himanshu-gupta-portfolio.netlify.app](https://himanshu-gupta-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at <a href='[https://himanshu-gupta-portfolio.netlify.app](https://himanshu-gupta-portfolio.netlify.app)'>My PortFolio</a>
 
 - 💬 Ask me about **Frontend Development**
 
