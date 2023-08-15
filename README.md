@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu0599&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu0599" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJs and Mysql**
 
-- 👨‍💻 All of my projects are available at **My PortFolio**
+- 👨‍💻 All of my projects are available at [**My Portfolio**](https://himanshu-gupta-portfolio.netlify.app)
 
 - 💬 Ask me about **Frontend Development**
 
