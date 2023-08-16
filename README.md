@@ -26,6 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu0599&show_icons=true&locale=en" alt="himanshu0599" /></p>
 
 <h3 align="left"> Trophies: </h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu0599" alt="himanshu0599" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh"><img src="https://github-profile-trophy.vercel.app/?username=himanshu0599" alt="himanshu0599" /></a> </p>
 
 
