@@ -23,8 +23,7 @@
 
 
 <h3 align="left"> Stats: </h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu0599&show_icons=true&locale=en" alt="himanshu0599" /></p>
-
+<p align="left"> <a href="https://github-readme-stats.vercel.app/api?username=himanshu0599&show_icons=true&locale=en"> <img src="https://github-readme-stats.vercel.app/api?username=himanshu0599&show_icons=true&locale=en" alt="himanshu0599" /></p>
 <h3 align="left"> Trophies: </h3>
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh"><img src="https://github-profile-trophy.vercel.app/?username=himanshu0599" alt="himanshu0599" /></a> </p>
 
